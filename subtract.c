@@ -13,8 +13,8 @@ int main()
 }
 int subtract1(float num1,float num2)
 {
-	float c=0;
-	c=num1-num2;
-	return(c);
+	float diff=0;
+	diff=num1-num2;
+	return(diff);
 }
 
