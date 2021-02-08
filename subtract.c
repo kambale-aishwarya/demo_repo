@@ -13,8 +13,9 @@ int main()
 }
 int subtract1(float num1,float num2)
 {
-	float diff=0;
-	diff=num1-num2;
-	return(diff);
+	float newdiff=0;
+	newdiff=num1-num2;
+	return(newdiff);
+>>>>>>> b1
 }
 
